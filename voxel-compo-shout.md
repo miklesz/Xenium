@@ -2,12 +2,12 @@ ENGLISH
 
 🚀 New compo alert! 🚀
 
-This year we’re bringing something fresh to the Xenium table - a Voxel Graphics Compo! If you’ve ever wanted to voxelize your world and show it on the big screen, now’s the time.
-- any platform & tool
+This year we’re bringing something fresh to the Xenium table—a Voxel Graphics Compo! If you’ve ever wanted to voxelize your world and show it on the big screen, now’s the time.
+- any platform and tool
 - static voxel scenes (no animation)
 - shown in Goxel (yes, we’ll handle the camera, or you can include notes!)
 - max 50 MB archive
-- up to 100,000 voxels
+- up to 100 thousand voxels
 - 4 WIP shots mandatory
 - .gox or .vox format
 
@@ -23,12 +23,12 @@ POLSKI
 
 🚀 Nowe compo na pokładzie! 🚀
 
-W tym roku na Xenium debiutuje Voxel Graphics Compo! Jeśli kiedyś marzyłeś/marzyłaś, żeby zwokselować swój świat i pokazać go na big screenie - oto Twoja szansa.
+W tym roku na Xenium debiutuje Voxel Graphics Compo! Jeśli kiedyś marzyłeś/marzyłaś, żeby z-voxel-izować swój świat i pokazać go na big screenie-oto Twoja szansa.
 - dowolna platforma i narzędzie
-- statyczne sceny voxelowe (bez animacji)
+- statyczne sceny voxel-owe (bez animacji)
 - wyświetlane w Goxel (kamerę ogarniemy my, możesz też dać swoje sugestie)
 - max 50 MB archiwum
-- do 100 000 voxeli
+- do 100 000 voxels
 - wymagane 4 etapy pracy
 - format .gox lub .vox
 
